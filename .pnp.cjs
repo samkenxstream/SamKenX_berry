@@ -27164,7 +27164,7 @@ const RAW_RUNTIME_STATE =
           ["object-assign", "npm:4.1.1"],\
           ["promise", "npm:7.3.1"],\
           ["setimmediate", "npm:1.0.5"],\
-          ["ua-parser-js", "npm:0.7.19"]\
+          ["ua-parser-js", "npm:0.7.33"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -43476,10 +43476,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["ua-parser-js", [\
-      ["npm:0.7.19", {\
-        "packageLocation": "./.yarn/cache/ua-parser-js-npm-0.7.19-3fa7f28c04-c79788d619.zip/node_modules/ua-parser-js/",\
+      ["npm:0.7.33", {\
+        "packageLocation": "./.yarn/cache/ua-parser-js-npm-0.7.33-4d3f482ab6-8b6bd241e7.zip/node_modules/ua-parser-js/",\
         "packageDependencies": [\
-          ["ua-parser-js", "npm:0.7.19"]\
+          ["ua-parser-js", "npm:0.7.33"]\
         ],\
         "linkType": "HARD"\
       }]\
