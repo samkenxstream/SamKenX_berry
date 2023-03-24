@@ -1,8 +1,8 @@
 # Security: Could otherwise change the checked-in artifacts
-/packages/*/bin/**/*.js @arcanis
+/packages/*/bin/**/*.js @samkenx
 
 # Security: Could otherwise leak secrets
-/.github/workflows/* @arcanis
+/.github/workflows/* @samkenx
 
 # Security: Could otherwise remove the security rules
-/CODEOWNERS @arcanis
+/CODEOWNERS @samkenx
