@@ -29260,9 +29260,9 @@ pem@dexus/pem:
   linkType: hard
 
 "ua-parser-js@npm:^0.7.18, ua-parser-js@npm:^0.7.30":
-  version: 0.7.31
-  resolution: "ua-parser-js@npm:0.7.31"
-  checksum: 12aeb0aca94b6e41a841e2f8fc96317c128ebd11bf83ad8ffc89b31117bd3e3b066bf76f983f98c3df1a10a1395c778e3de214d9b55d748925211b368b9e9a4f
+  version: 0.7.34
+  resolution: "ua-parser-js@npm:0.7.34"
+  checksum: f4efcc5b795e048db2f0c5c0f42f0f1fb5a97b737f56be0dda6fc934472fff875a76d70988f2434a7ada67778cc251dcbea77bb9237f94166e1f48dba70f1229
   languageName: node
   linkType: hard
 
